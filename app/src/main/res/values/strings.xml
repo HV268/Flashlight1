@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">flashlight</string>
+    <string name="flashlight">FLASHLIGHT</string>
+    <string name="flsh">
+       <u> FLASHLIGHT</u>
+    </string>
+</resources>
